@@ -1,7 +1,7 @@
 import React, {useState} from 'react';
 import {View, Text, TextInput, Button, StyleSheet, Alert} from 'react-native';
 
-import {useRealm} from './NoteRealmModel';
+import {useRealm} from '../DataRealmModel';
 import Realm from 'realm';
 
 const CreateNote = () => {
