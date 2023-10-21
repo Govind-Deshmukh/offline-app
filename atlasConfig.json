@@ -1,0 +1,9 @@
+{
+  "appId": "devicesync-msjjx",
+  "appUrl": "https://realm.mongodb.com/groups/64948dc47770165b850d2b9c/apps/6532c8c30a7b85ef5813ded3",
+  "baseUrl": "https://realm.mongodb.com",
+  "clientApiBaseUrl": "https://ap-south-1.aws.realm.mongodb.com",
+  "dataApiBaseUrl": "https://ap-south-1.aws.data.mongodb-api.com",
+  "dataExplorerLink": "https://cloud.mongodb.com/links/64948dc47770165b850d2b9c/explorer/ecommerce-web/database/collection/find",
+  "dataSourceName": "mongodb-atlas"
+}
